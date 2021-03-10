@@ -1,0 +1,21 @@
+{
+  "name": "mean_tutorial",
+  "version": "1.0.0",
+  "description": "this is mean stack web development tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Mean",
+    "Mongo",
+    "Express",
+    "angular",
+    "nodejs"
+  ],
+  "author": "tanisha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
